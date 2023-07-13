@@ -6,5 +6,5 @@ Find the minimum time in seconds to make all elements of the array equal.
 Input
 A = [2, 4, 1, 3, 2]
  
-Output
+Output : 
 8
